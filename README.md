@@ -1,5 +1,5 @@
 # CommentRemover
-CommentRemover is a tool that is written in Java and removes comments from an input source code file. Multi-line, JavaDoc, and single line comments are all compatible.
+CommentRemover is a tool that is written in Java and removes comments from an input source code file. Multi-line, JavaDoc, and single line comments are all compatible. This tool works with "slash comments", i.e. the comments seen throughout Java, C, C#, Swift, etc.
 
 # Installation
 Simply download the file and load it into an IDE or text editor. Eclipse IDE was used for development.
